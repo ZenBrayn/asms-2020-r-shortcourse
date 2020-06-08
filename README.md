@@ -56,14 +56,34 @@ While previous programming experience can be useful for learning R, it is not sp
 | 11:45 -- 12:00 AM| 15 min | Morning wrap-up & questions |
 | 12:00 -- 1:00 PM | 1 hr | *Lunch* |
 | 1:00 -- 1:30 PM | 30 min | Introduction to tidy data and the `tidyverse` |
-| 1:30 -- 1:45 PM | 15 min | Practice session 4 |
+| 1:30 -- 1:45 PM | 15 min | Practice session #4 |
 | 1:45 -- 2:15 PM | 30 min | Example data pipelines with `dplyr` |
-| 2:15 -- 2:30 PM | 15 min | Practice session 5 |
+| 2:15 -- 2:30 PM | 15 min | Practice session #5 |
 | 2:30 -- 2:45 PM | 15 min | *Break* |
 | 2:45 -- 3:15 PM | 30 min | Introduction to `ggplot2` |
-| 3:15 -- 3:30 PM | 15 min | Practice session 6 |
+| 3:15 -- 3:30 PM | 15 min | Practice session #6 |
 | 3:30 -- 4:00 PM | 30 min | `ggplot2` aesthestics, geoms, stats, scales |
-| 4:00 -- 4:15 PM | 15 min | Practice session 7 |
+| 4:00 -- 4:15 PM | 15 min | Practice session #7 |
 | 4:15 -- 4:30 PM | 15 min | Course wrap-up, review, next steps |
+
+
+## Pre-Course Preparation
+
+This course is meant to provide both lecture style instruction and hands-on practice working with R.  As such, participants will need to complete some pre-course preparations so they are ready to participate during the short course instruction.
+
+1. Download the course materials from the GitHub repository.
+    * **If you are familiar with Git**, clone the repository to your personal computer
+    * **If you don't know about Git**, you can download the files as a .zip file.  Look for the green "Clone or download" button near the top of the main course page on GitHub, and click "Download ZIP".  Unzip the file on your personal computer.
+2. If you need help installing R and RStudio, see the [provided installation notes](https://github.com/ZenBrayn/asms-2020-r-shortcourse/blob/master/presentations/00_installing_r_and_rstudio.pdf).
+3. Take a quick look through the structure of the downloaded files and directories.  We will be using these materials during the course, e.g. working with the provided R scripts.
+
+Given the current situation with COVID-19 that has necessitated the move of the course to an online format, there are two ways that participants can work with R and the materials during the course:
+
+1. **Install R and Rstudio on your personal computer**.  Please see the [installation notes](https://github.com/ZenBrayn/asms-2020-r-shortcourse/blob/master/presentations/00_installing_r_and_rstudio.pdf) for more information.  If you chose this option, you will need to download the course materials from the GitHub repository and follow along with the provided R scripts during the course.
+2. **Utilize Rstudio Cloud**.  We will also be using a cloud-based environment that participants can use to access R, Rstudio and the example R scripts.  *This is not required*, but can simplify the process because it provides a "ready to go" instance of Rstudio and the example files all from your web browser.  If you chose this option, you don't need to install R or Rstudio on your personal computer, but you will need to make an account with Rstudio Cloud and join the course workspace.  A link to join the Rstudio Cloud workspace will be provided in a separate email from ASMS.
+
+
+
+
 
 
