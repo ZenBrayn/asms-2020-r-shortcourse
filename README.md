@@ -82,6 +82,16 @@ Given the current situation with COVID-19 that has necessitated the move of the 
 1. **Install R and Rstudio on your personal computer**.  Please see the [installation notes](https://github.com/ZenBrayn/asms-2020-r-shortcourse/blob/master/presentations/00_installing_r_and_rstudio.pdf) for more information.  If you chose this option, you will need to download the course materials from the GitHub repository and follow along with the provided R scripts during the course.
 2. **Utilize Rstudio Cloud**.  We will also be using a cloud-based environment that participants can use to access R, Rstudio and the example R scripts.  *This is not required*, but can simplify the process because it provides a "ready to go" instance of Rstudio and the example files all from your web browser.  If you chose this option, you don't need to install R or Rstudio on your personal computer, but you will need to make an account with Rstudio Cloud and join the course workspace.  A link to join the Rstudio Cloud workspace will be provided in a separate email from ASMS.
 
+If using option 1 above, you will need to install a few R packages before the course.  You can do this within RStudio:
+
+1. Open RStudio
+2. Select "Tools --> Install Packages"
+3. In the "Packages" field, enter the name of the package (provided below)
+4. Click "Install"
+
+These are the names of the packages you need to install (please type exactly as shown below):
+
+* `tidyverse`
 
 
 
