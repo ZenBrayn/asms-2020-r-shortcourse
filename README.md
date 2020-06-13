@@ -4,7 +4,7 @@
 
 **Date**: Wednesday, June 17, 2020 (one-day course)
 
-**Time**: 9AM -- 4PM CDT (7AM -- 2PM PDT, 9AM -- 5PM EDT)
+**Time**: 9AM -- 4PM CDT (7AM -- 2PM PDT, 10AM -- 5PM EDT)
 
 **Location**: Online (Zoom link TBD)
 
