@@ -23,7 +23,7 @@
 
 
 
-# Step #1: Read in the data file: example_data.csv
+# Step #1: Read in the data file: data/example_data.csv
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-# Step #5: Compute analyte summaries within the samples, and (separately) within replicates
+# Step #5 (Challenge): Compute analyte summaries within the samples, and (separately) within replicates
 #   Hint -- Recall the separate exercise
 #   Hint -- you can group_by more than one variable at a time
 

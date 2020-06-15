@@ -23,7 +23,7 @@
 
 
 
-# Step #1: Read in the data file: example_data.csv
+# Step #1: Read in the data file: data/example_data.csv
 
 
 

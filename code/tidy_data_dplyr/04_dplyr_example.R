@@ -64,7 +64,7 @@ dat_pipeline_1
 
 # Pipeline example 2 ====
 # 1. compute percent correct
-# 2. for each exam...
+# 2. for each student...
 # 3. compute min, max, mean percent correct
 dat_pipeline_2 <- dat_tidy %>%
   mutate(pct_correct = points / total) %>%
