@@ -60,11 +60,13 @@ While previous programming experience can be useful for learning R, it is not sp
 | 1:45 -- 2:15 PM | 30 min | Example data pipelines with `dplyr` |
 | 2:15 -- 2:30 PM | 15 min | Practice session #5 |
 | 2:30 -- 2:45 PM | 15 min | *Break* |
-| 2:45 -- 3:15 PM | 30 min | Introduction to `ggplot2` |
-| 3:15 -- 3:30 PM | 15 min | Practice session #6 |
-| 3:30 -- 4:00 PM | 30 min | `ggplot2` aesthestics, geoms, stats, scales |
-| 4:00 -- 4:15 PM | 15 min | Practice session #7 |
-| 4:15 -- 4:30 PM | 15 min | Course wrap-up, review, next steps |
+| 2:45 -- 2:50 PM | 5 min  | Introduction to data visualization | 
+| 2:50 -- 3:15 PM | 25 min | `ggplot2` basic syntax |
+| 3:15 -- 3:45 PM | 30 min | Practice session #6 |
+| 3:45 -- 4:00 PM | 15 min | Break |
+| 4:00 -- 4:10 PM | 10 min | `ggplot2` extended syntax |
+| 4:10 -- 4:30 PM | 20 min | Practice session #7 & #8 |
+| 4:30 -- 4:45 PM | 15 min | Course wrap-up, review, next steps |
 
 
 ## Pre-Course Preparation
