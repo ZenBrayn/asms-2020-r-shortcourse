@@ -56,7 +56,6 @@
 # How many rows are in the long format data?
 # Do the number of rows match your expectation?
 #   Hint - how many MS runs total are there? how many analytes are there?
-# How would you reorder the table by analyte name?
 
 
 

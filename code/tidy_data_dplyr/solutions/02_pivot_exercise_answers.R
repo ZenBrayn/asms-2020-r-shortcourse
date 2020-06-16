@@ -63,8 +63,7 @@ ncol(dat)
 # Step #3: Pivot the data from wide to long format
 # What's the name of the function we should use?
 #   Hint -- look at the examples in tidy_data_example.R 
-dat_long <- dat %>%
-  pivot_longer(cols = 3:102, names_to = "analyte", values_to = "intensity")
+dat_long <- pivot_longer(dat, cols = 3:102, names_to = "analyte", values_to = "intensity")
 
 dat_long
 
@@ -80,11 +79,5 @@ nrow(dat_long)
 # Do the number of rows match your expectation?
 #   Hint - how many MS runs total are there? how many analytes are there?
 # A: 60 total runs x 100 analytes = 6000
-
-# How would you reorder the table by analyte name?
-dat_long %>%
-  arrange(analyte)
-
-
 
 
